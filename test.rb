@@ -1,3 +1,4 @@
+puts "Salut, bienvenue dans ma super pyramide ! choix un nombre d'étages entre 1 et 25"
 
 print ">"
 
